@@ -2,13 +2,13 @@
 opam-version: "2.0"
 synopsis: "A short synopsis"
 description: "A longer description"
-maintainer: ["Alex Moraes"]
-authors: ["Alex Moraes"]
+maintainer: ["Maintainer Name"]
+authors: ["Author Name"]
 license: "LICENSE"
 tags: ["topics" "to describe" "your" "project"]
-homepage: "https://github.com/alexMoraes/ocaml-99-problems"
+homepage: "https://github.com/username/reponame"
 doc: "https://url/to/documentation"
-bug-reports: "https://github.com/alexMoraes/ocaml-99-problems/issues"
+bug-reports: "https://github.com/username/reponame/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.10"}
@@ -28,4 +28,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/alexMoraes/ocaml-99-problems.git"
+dev-repo: "git+https://github.com/username/reponame.git"

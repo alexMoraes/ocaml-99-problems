@@ -1,0 +1,4 @@
+(executable
+ (public_name tailOfList)
+ (name tailOfList)
+ (libraries exercises))

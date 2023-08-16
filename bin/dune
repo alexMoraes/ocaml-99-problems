@@ -1,4 +1,0 @@
-(executables
- (names tailOfList lastTwoElementsOfList nthElementOfList lengthOfList reverseList)
- (public_names tailOfList lastTwoElementsOfList nthElementOfList lengthOfList reverseList)
- (libraries lib))

@@ -1,4 +1,4 @@
-open Lib
+open Exercises
 
 let rec last_two = function
   | [] -> None

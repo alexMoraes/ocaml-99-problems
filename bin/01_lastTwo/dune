@@ -1,0 +1,4 @@
+(executable
+ (public_name lastTwo)
+ (name lastTwo)
+ (libraries exercises))

@@ -1,22 +1,22 @@
 (lang dune 3.10)
 
-(name ninety_nine_problems)
+(name exercises)
 
 (generate_opam_files true)
 
 (source
- (github alexMoraes/ocaml-99-problems))
+ (github username/reponame))
 
-(authors "Alex Moraes")
+(authors "Author Name")
 
-(maintainers "Alex Moraes")
+(maintainers "Maintainer Name")
 
 (license LICENSE)
 
 (documentation https://url/to/documentation)
 
 (package
- (name ninety_nine_problems)
+ (name exercises)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune)

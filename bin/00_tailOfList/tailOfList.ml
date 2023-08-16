@@ -1,4 +1,4 @@
-open Lib
+open Exercises
 
 let rec last l =
   match l with
