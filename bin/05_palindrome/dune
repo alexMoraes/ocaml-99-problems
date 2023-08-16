@@ -1,0 +1,4 @@
+(executable
+ (public_name palindrome)
+ (name palindrome)
+ (libraries exercises))
