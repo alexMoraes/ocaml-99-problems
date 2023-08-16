@@ -1,4 +1,4 @@
 (executables
- (names tailOfList lastTwoElementsOfList nthElementOfList)
- (public_names tailOfList lastTwoElementsOfList nthElementOfList)
+ (names tailOfList lastTwoElementsOfList nthElementOfList lengthOfList)
+ (public_names tailOfList lastTwoElementsOfList nthElementOfList lengthOfList)
  (libraries lib))
