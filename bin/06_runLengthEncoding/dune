@@ -1,0 +1,4 @@
+(executable
+ (public_name runLengthEncoding)
+ (name runLengthEncoding)
+ (libraries exercises))
