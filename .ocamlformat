@@ -1,1 +1,4 @@
 version = 0.26.0
+break-cases=toplevel
+match-indent=2
+match-indent-nested=always
