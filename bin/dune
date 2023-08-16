@@ -1,4 +1,4 @@
 (executables
  (names tailOfList lastTwoElementsOfList)
  (public_names tailOfList lastTwoElementsOfList)
- (libraries ninety_nine_problems))
+ (libraries lib))
