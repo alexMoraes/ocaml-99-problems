@@ -1,5 +1,7 @@
 version = 0.26.0
+profile=ocamlformat
 break-cases=toplevel
 match-indent=2
 match-indent-nested=always
 if-then-else=vertical
+type-decl=sparse
