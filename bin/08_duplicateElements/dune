@@ -1,0 +1,4 @@
+(executable
+ (public_name duplicateElements)
+ (name duplicateElements)
+ (libraries exercises))
