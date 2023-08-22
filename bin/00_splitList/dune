@@ -1,0 +1,4 @@
+(executable
+ (public_name splitList)
+ (name splitList)
+ (libraries exercises))
