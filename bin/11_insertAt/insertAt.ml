@@ -2,9 +2,9 @@ open Exercises
 
 let rec insertAt index e = function
   | [] -> []
-  | h :: t ->
+  | h :: t as l ->
       if index = 0 then
-        e :: h :: t
+        e :: l
       else
         h :: insertAt (index - 1) e t
 
