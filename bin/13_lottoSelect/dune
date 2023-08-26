@@ -1,0 +1,4 @@
+(executable
+ (public_name lottoSelect)
+ (name lottoSelect)
+ (libraries exercises))
